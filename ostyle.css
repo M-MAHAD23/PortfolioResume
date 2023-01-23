@@ -1,0 +1,61 @@
+.container {
+    background-image: url(./images/wp10311466.png);
+    overflow: hidden;
+}
+
+.left_panel {
+    border-radius: 50px;
+    background-color: blue;
+    width: 300px;
+    height: 593px;
+}
+
+.background {
+    background-color: deeppink;
+    border-radius: 50px;
+    width: 1264px;
+    height: 593px;
+}
+
+.image {
+    position: absolute;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+.image_mgmt {
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.name {
+    position: absolute;
+    color: white;
+    margin-top: 120px;
+    margin-left: 23px;
+}
+
+.link {
+    position: absolute;
+    margin-top: 275px;
+}
+
+.email {
+    position: absolute;
+    margin-left: 43px;
+    margin-top: 250px;
+}
+
+.twitter {
+    position: absolute;
+    margin-left: 123px;
+    margin-top: 250px;
+}
+
+.linkedIn {
+    position: absolute;
+    margin-left: 203px;
+    margin-top: 250px;
+}
